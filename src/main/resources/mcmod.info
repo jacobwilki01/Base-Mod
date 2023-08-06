@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "basemod",
+  "name": "CJWilk's Base Mod",
+  "description": "Testing mod to learn minecraft modding.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["CJWilk"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
